@@ -1,8 +1,8 @@
-# GlassRecon
-Dataset with detailed annotated glass depth maps in indoor scenes.
+# Enhancing Glass Surface Reconstruction via Depth Prior for Robot Navigation
+[Paper](https://arxiv.org/abs/2604.18336) | [GlassRecon Dataset](https://drive.google.com/file/d/1u1ODwddeW04bkQ4oda9vgvbKK8MXTQ5N/view?usp=sharing)
 
 ## Dataset Structure
-[GlassRecon dataset](https://drive.google.com/file/d/1u1ODwddeW04bkQ4oda9vgvbKK8MXTQ5N/view?usp=sharing) is organized as follows:
+The dataset is organized as follows:
 ```
 GlassRecon/
 ├── images/                  # RGB images (PNG)

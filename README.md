@@ -3,7 +3,7 @@
 # Enhancing Glass Surface Reconstruction via Depth Prior for Robot Navigation
 
 ### [Paper](https://arxiv.org/abs/2604.18336) | [GlassRecon Dataset](https://drive.google.com/file/d/1u1ODwddeW04bkQ4oda9vgvbKK8MXTQ5N/view?usp=sharing)
-![image](https://github.com/JMamie/GlassRecon/blob/main/teaser.jpg)
+![image](https://github.com/JMamie/GlassRecon/blob/main/pics/teaser.jpg)
 
 </div>
 

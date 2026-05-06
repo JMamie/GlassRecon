@@ -38,3 +38,14 @@ If the predicted depth maps represent inverse depth, add the `--inverse-depth` f
 python eval.py ... --inverse-depth
 ```
 
+## Citation
+If you find out work useful please cite
+```bibtex
+@article{zheng2026enhancing,
+  title={Enhancing Glass Surface Reconstruction via Depth Prior for Robot Navigation},
+  author={Zheng, Jiamin and Yu, Jingwen and Chen, Guangcheng and Zhang, Hong},
+  journal={arXiv preprint arXiv:2604.18336},
+  year={2026}
+}
+```
+
